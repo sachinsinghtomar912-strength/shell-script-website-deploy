@@ -21,5 +21,5 @@ This project demonstrates how to deploy a static website on an AWS EC2 instance 
 3. Run the deployment script
 
 ```bash
-chmod +x deploy.sh
+chmod 700 deploy.sh
 ./deploy.sh
